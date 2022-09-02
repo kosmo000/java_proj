@@ -1,0 +1,132 @@
+    1  pwd
+    2  pwd
+    3  cd
+    4  pwd
+    5  cd ..
+    6  pwd
+    7  clear
+    8  pwd
+    9  dir
+   10  ls
+   11  clear
+   12  pwd
+   13  dir
+   14  ls
+   15  ls/c
+   16  ls
+   17  cleae
+   18  clear
+   19  pwd
+   20  cd /c
+   21  pwd
+   22  ls
+   23  clea
+   24  clear
+   25  mkdir git
+   26  ls
+   27  cd git
+   28  clear
+   29  mkdir test1 test2 test3
+   30  ls
+   31  cd test1
+   32  pwd
+   33  cd ../test2
+   34  cd /c/git/test3
+   35  clear
+   36  ls
+   37  cd ..
+   38  ls
+   39  mkdir test1/aaa test1/bbb test1/ccc
+   40  ls test1
+   41  ls
+   42  ls test1
+   43  clear
+   44  ls
+   45  ls /c/git/test1
+   46  ls test1
+   47  ls
+   48  pwd
+   49  ls
+   50  ls test1
+   51  clear
+   52  pwd
+   53  ls
+   54  mkdir test2/ddd test2/eee test2/fff
+   55  ls
+   56  ls test2
+   57  clear
+   58  pwd
+   59  ls
+   60  cd test1
+   61  ls
+   62  rmdir ccc
+   63  ls
+   64  rmdir bbb
+   65  ls
+   66  clear
+   67  mkdir bbb ccc
+   68  touch abc,txt bb  txt cc.txt
+   69  ls
+   70  rmdir abc,txt bb
+   71  rmdir abc,txt
+   72  abc,txt bb bbb
+   73  ls
+   74  rmdir cc.txt ccc
+   75  clear
+   76  ls
+   77  rmdir abc,txt bb bbb
+   78  rmdir abc,txt
+   79  cd abc,txt bb bbb
+   80  cd abc, txt
+   81  rm test1
+   82  cd ccc
+   83  cd cc.text
+   84  cd cc txt
+   85  cd cc txt txt
+   86  ls
+   87  rmdir aaa
+   88  ls
+   89  rmdir abc,txt bb cc.txt txt
+   90  rm abc,txt bb cc.txt txt
+   91  ls
+   92  ls
+   93  touch aa.txt bb.txt cc.txt
+   94  ls
+   95  rmdir cc.txt
+   96  rmdir aa.txt bb.txt cc.txt
+   97  rm aa.txt bb.txt cc/txt
+   98  rm aa.txt bb.txt cc.txt
+   99  ls
+  100  clear
+  101  ls
+  102  pwd
+  103  ls
+  104  rm-r
+  105  touch aa.txt vv.txt cc.txt
+  106  ls
+  107  mkdir aa
+  108  ls
+  109  mv aa.txt vv.txt cc.txt aa
+  110  ls
+  111  ls aa
+  112  clear
+  113  pwd
+  114  ls
+  115  mkrir aaa bbb ccc
+  116  ls
+  117  mkdir aaa bbb ccc
+  118  ls
+  119  mr.aa
+  120  ls
+  121  rm.r aa
+  122  rm -r ** aa
+  123  ls
+  124  mkdir aaa bbb ccc
+  125  ls
+  126  clear
+  127  touch aa.txt bb.txt
+  128  ls
+  129  clear
+  130  history
+  131  clear
+  132  history > aaa/txt
